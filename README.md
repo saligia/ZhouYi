@@ -1,1 +1,1 @@
-# ZhouYi
+# This is python version of ZhouYi program
